@@ -89,9 +89,10 @@ In addition to the bandwidth profile, both these config files contain parameters
 To run WorkloadCompactor:
 -------------------------
 
-1. Launch enforcement modules
+**1. Launch enforcement modules**
 
-This step can be skipped if WorkloadCompactor is not being deployed on a cluster and is only being used to see the placement decisions.
+*Note: This step can be skipped if WorkloadCompactor is not being deployed on a cluster and is only being used to see the placement decisions.*
+
 On each machine's host OS, run:
 
 `./src/NetEnforcer/NetEnforcer [-d dev] [-b maxBandwidth (in bytes per sec)] [-n numPriorities]`
@@ -108,7 +109,7 @@ On each NFS server, start the NFS daemon (e.g., `service nfs-kernel-server start
 Command line parameters:
 * -c configFile (required) - config file that specifies some global NFSEnforcer parameters such as the storage profile; see profile file description above
 
-2. Start the WorkloadCompactor admission controller server
+**2. Start the WorkloadCompactor admission controller server**
 
 Run:
 
@@ -117,7 +118,7 @@ Run:
 Multiple instances (on separate VMs) can be used with the placement controller for improved placement speed.
 
 
-3. Start the WorkloadCompactor placement controller server
+**3. Start the WorkloadCompactor placement controller server**
 
 Run:
 
@@ -128,7 +129,7 @@ Command line parameters:
 * -f (optional) - enables the fast-first-fit computation optimization, which tells the AdmissionController server to return early if a placement is unlikely to fit
 
 
-4. Place workloads in the system
+**4. Place workloads in the system**
 
 Run:
 
@@ -143,7 +144,7 @@ Command line parameters:
 Some example output files are located at examples/output-example*.
 
 
-5. Run workload
+**5. Run workload**
 
 This assumes step 1 has been performed and enforcement is enabled in the topology file so that priorities and rate limits are enforced.
 The result of the placement indicates which client VM should mount to which NFS server.
@@ -174,7 +175,7 @@ Src directories:
 
 ### Test code
 
-DNC-LibraryTest - test code for DNC-Library
+* DNC-LibraryTest - test code for DNC-Library
 
 ### Library headers
 
