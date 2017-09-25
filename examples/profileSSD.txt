@@ -1,0 +1,670 @@
+{
+	"bandwidthTable" : 
+	[
+		{
+			"readBandwidth" : 4895285.1887739813,
+			"requestSize" : 512,
+			"writeBandwidth" : 604349.12310967746
+		},
+		{
+			"readBandwidth" : 5270270.0803274447,
+			"requestSize" : 1024,
+			"writeBandwidth" : 1099666.9096795586
+		},
+		{
+			"readBandwidth" : 13072482.49838426,
+			"requestSize" : 1536,
+			"writeBandwidth" : 1624985.8035511491
+		},
+		{
+			"readBandwidth" : 10994427.051621126,
+			"requestSize" : 2048,
+			"writeBandwidth" : 2401505.6149396407
+		},
+		{
+			"readBandwidth" : 14757382.872502578,
+			"requestSize" : 2560,
+			"writeBandwidth" : 2309717.687333893
+		},
+		{
+			"readBandwidth" : 29323453.686517201,
+			"requestSize" : 3072,
+			"writeBandwidth" : 2769382.7589979651
+		},
+		{
+			"readBandwidth" : 19766651.087964475,
+			"requestSize" : 3584,
+			"writeBandwidth" : 3038227.8808473521
+		},
+		{
+			"readBandwidth" : 26469895.803012937,
+			"requestSize" : 4096,
+			"writeBandwidth" : 8619064.1005827989
+		},
+		{
+			"readBandwidth" : 37456388.63785129,
+			"requestSize" : 4608,
+			"writeBandwidth" : 3603522.2448005695
+		},
+		{
+			"readBandwidth" : 24580912.686148208,
+			"requestSize" : 5120,
+			"writeBandwidth" : 4279458.5238107014
+		},
+		{
+			"readBandwidth" : 37259065.011932753,
+			"requestSize" : 5632,
+			"writeBandwidth" : 4130189.4387353109
+		},
+		{
+			"readBandwidth" : 19654336.528349083,
+			"requestSize" : 6144,
+			"writeBandwidth" : 5744100.5348915113
+		},
+		{
+			"readBandwidth" : 37509638.993833192,
+			"requestSize" : 6656,
+			"writeBandwidth" : 5190256.2888870621
+		},
+		{
+			"readBandwidth" : 47320495.368321009,
+			"requestSize" : 7168,
+			"writeBandwidth" : 5941342.6373273702
+		},
+		{
+			"readBandwidth" : 38504886.849719994,
+			"requestSize" : 7680,
+			"writeBandwidth" : 5983206.9806461008
+		},
+		{
+			"readBandwidth" : 47324356.120188735,
+			"requestSize" : 8192,
+			"writeBandwidth" : 16871015.878554069
+		},
+		{
+			"readBandwidth" : 47134865.272810034,
+			"requestSize" : 8704,
+			"writeBandwidth" : 6558053.7170442166
+		},
+		{
+			"readBandwidth" : 55691221.631488591,
+			"requestSize" : 9216,
+			"writeBandwidth" : 7662014.0178147694
+		},
+		{
+			"readBandwidth" : 55825124.908559166,
+			"requestSize" : 9728,
+			"writeBandwidth" : 7352033.8720691688
+		},
+		{
+			"readBandwidth" : 75140484.197560653,
+			"requestSize" : 10240,
+			"writeBandwidth" : 10110316.492958484
+		},
+		{
+			"readBandwidth" : 62868623.400842182,
+			"requestSize" : 10752,
+			"writeBandwidth" : 8037712.9545652168
+		},
+		{
+			"readBandwidth" : 67618889.629529044,
+			"requestSize" : 11264,
+			"writeBandwidth" : 8821916.4455444776
+		},
+		{
+			"readBandwidth" : 70815172.282477811,
+			"requestSize" : 11776,
+			"writeBandwidth" : 8668423.3799830005
+		},
+		{
+			"readBandwidth" : 79093550.526900724,
+			"requestSize" : 12288,
+			"writeBandwidth" : 24593252.62415034
+		},
+		{
+			"readBandwidth" : 76245726.249087408,
+			"requestSize" : 12800,
+			"writeBandwidth" : 9184692.1546947546
+		},
+		{
+			"readBandwidth" : 68936949.07168597,
+			"requestSize" : 13312,
+			"writeBandwidth" : 10316297.206602121
+		},
+		{
+			"readBandwidth" : 74834647.300775036,
+			"requestSize" : 13824,
+			"writeBandwidth" : 9636840.7245825343
+		},
+		{
+			"readBandwidth" : 85864455.795565248,
+			"requestSize" : 14336,
+			"writeBandwidth" : 13621625.259136289
+		},
+		{
+			"readBandwidth" : 73527049.26810421,
+			"requestSize" : 14848,
+			"writeBandwidth" : 10617557.529534647
+		},
+		{
+			"readBandwidth" : 84510413.975401759,
+			"requestSize" : 15360,
+			"writeBandwidth" : 11500941.012609346
+		},
+		{
+			"readBandwidth" : 84796775.71714738,
+			"requestSize" : 15872,
+			"writeBandwidth" : 10903341.185195331
+		},
+		{
+			"readBandwidth" : 96037941.92730318,
+			"requestSize" : 16384,
+			"writeBandwidth" : 32249480.653302621
+		},
+		{
+			"readBandwidth" : 81734770.859160393,
+			"requestSize" : 16896,
+			"writeBandwidth" : 11520570.994583866
+		},
+		{
+			"readBandwidth" : 73732625.516505867,
+			"requestSize" : 17408,
+			"writeBandwidth" : 12994932.50498868
+		},
+		{
+			"readBandwidth" : 79488333.455602825,
+			"requestSize" : 17920,
+			"writeBandwidth" : 12059110.773420447
+		},
+		{
+			"readBandwidth" : 84126287.721318915,
+			"requestSize" : 18432,
+			"writeBandwidth" : 15720292.593382994
+		},
+		{
+			"readBandwidth" : 87315278.976784885,
+			"requestSize" : 18944,
+			"writeBandwidth" : 12869593.598692078
+		},
+		{
+			"readBandwidth" : 90288721.75774318,
+			"requestSize" : 19456,
+			"writeBandwidth" : 13997223.139563562
+		},
+		{
+			"readBandwidth" : 90482957.489189789,
+			"requestSize" : 19968,
+			"writeBandwidth" : 13225926.856587291
+		},
+		{
+			"readBandwidth" : 93212744.8003636,
+			"requestSize" : 20480,
+			"writeBandwidth" : 37891129.077668123
+		},
+		{
+			"readBandwidth" : 85128578.511969686,
+			"requestSize" : 20992,
+			"writeBandwidth" : 13509038.361054173
+		},
+		{
+			"readBandwidth" : 87132596.027630061,
+			"requestSize" : 21504,
+			"writeBandwidth" : 15267802.085802972
+		},
+		{
+			"readBandwidth" : 98023593.551448971,
+			"requestSize" : 22016,
+			"writeBandwidth" : 13962837.226182299
+		},
+		{
+			"readBandwidth" : 104332093.55533114,
+			"requestSize" : 22528,
+			"writeBandwidth" : 17968148.089122336
+		},
+		{
+			"readBandwidth" : 96435692.238471881,
+			"requestSize" : 23040,
+			"writeBandwidth" : 14820934.39787814
+		},
+		{
+			"readBandwidth" : 98545951.679563344,
+			"requestSize" : 23552,
+			"writeBandwidth" : 16208041.05822172
+		},
+		{
+			"readBandwidth" : 98486404.102524504,
+			"requestSize" : 24064,
+			"writeBandwidth" : 14979403.19952793
+		},
+		{
+			"readBandwidth" : 99655507.018668503,
+			"requestSize" : 24576,
+			"writeBandwidth" : 43215051.322958812
+		},
+		{
+			"readBandwidth" : 103489297.97959226,
+			"requestSize" : 25088,
+			"writeBandwidth" : 15877424.280636229
+		},
+		{
+			"readBandwidth" : 101495200.45234096,
+			"requestSize" : 25600,
+			"writeBandwidth" : 17142205.333840273
+		},
+		{
+			"readBandwidth" : 102936998.99135144,
+			"requestSize" : 26112,
+			"writeBandwidth" : 15867795.377249429
+		},
+		{
+			"readBandwidth" : 107406564.58514506,
+			"requestSize" : 26624,
+			"writeBandwidth" : 20687964.559053797
+		},
+		{
+			"readBandwidth" : 98972760.240663931,
+			"requestSize" : 27136,
+			"writeBandwidth" : 16616013.102401845
+		},
+		{
+			"readBandwidth" : 107018548.1533892,
+			"requestSize" : 27648,
+			"writeBandwidth" : 17391917.841339
+		},
+		{
+			"readBandwidth" : 101661739.06814216,
+			"requestSize" : 28160,
+			"writeBandwidth" : 17028509.699180219
+		},
+		{
+			"readBandwidth" : 119363964.61839938,
+			"requestSize" : 28672,
+			"writeBandwidth" : 45328361.78378927
+		},
+		{
+			"readBandwidth" : 105225073.05103049,
+			"requestSize" : 29184,
+			"writeBandwidth" : 17491366.862552412
+		},
+		{
+			"readBandwidth" : 104045141.57954729,
+			"requestSize" : 29696,
+			"writeBandwidth" : 18270168.650338877
+		},
+		{
+			"readBandwidth" : 103126382.56132326,
+			"requestSize" : 30208,
+			"writeBandwidth" : 17677041.780408487
+		},
+		{
+			"readBandwidth" : 107932828.40056077,
+			"requestSize" : 30720,
+			"writeBandwidth" : 21977891.459133599
+		},
+		{
+			"readBandwidth" : 105051732.96168484,
+			"requestSize" : 31232,
+			"writeBandwidth" : 18487525.613362174
+		},
+		{
+			"readBandwidth" : 109559507.9806883,
+			"requestSize" : 31744,
+			"writeBandwidth" : 19472173.54909648
+		},
+		{
+			"readBandwidth" : 107080344.63101159,
+			"requestSize" : 32256,
+			"writeBandwidth" : 18514260.511984743
+		},
+		{
+			"readBandwidth" : 119368497.21255198,
+			"requestSize" : 32768,
+			"writeBandwidth" : 50096223.25185959
+		},
+		{
+			"readBandwidth" : 109591257.2802624,
+			"requestSize" : 33280,
+			"writeBandwidth" : 19620594.310968801
+		},
+		{
+			"readBandwidth" : 107271658.19754988,
+			"requestSize" : 33792,
+			"writeBandwidth" : 21296153.815608155
+		},
+		{
+			"readBandwidth" : 109559732.4394455,
+			"requestSize" : 34304,
+			"writeBandwidth" : 19956260.0618711
+		},
+		{
+			"readBandwidth" : 111819939.55793107,
+			"requestSize" : 34816,
+			"writeBandwidth" : 25343855.476198267
+		},
+		{
+			"readBandwidth" : 110221669.26131767,
+			"requestSize" : 35328,
+			"writeBandwidth" : 20377069.228696808
+		},
+		{
+			"readBandwidth" : 10398714.640624732,
+			"requestSize" : 35840,
+			"writeBandwidth" : 21410351.048293915
+		},
+		{
+			"readBandwidth" : 112626177.33532196,
+			"requestSize" : 36352,
+			"writeBandwidth" : 20428389.142223507
+		},
+		{
+			"readBandwidth" : 114790230.05143821,
+			"requestSize" : 36864,
+			"writeBandwidth" : 50854755.231745161
+		},
+		{
+			"readBandwidth" : 112779310.51044473,
+			"requestSize" : 37376,
+			"writeBandwidth" : 20822721.970463842
+		},
+		{
+			"readBandwidth" : 113531007.66594337,
+			"requestSize" : 37888,
+			"writeBandwidth" : 22000936.123805203
+		},
+		{
+			"readBandwidth" : 111828730.24583703,
+			"requestSize" : 38400,
+			"writeBandwidth" : 21622388.880403262
+		},
+		{
+			"readBandwidth" : 113524338.14507101,
+			"requestSize" : 38912,
+			"writeBandwidth" : 26678399.675827388
+		},
+		{
+			"readBandwidth" : 113770154.84906189,
+			"requestSize" : 39424,
+			"writeBandwidth" : 21254689.676116511
+		},
+		{
+			"readBandwidth" : 107974739.39407402,
+			"requestSize" : 39936,
+			"writeBandwidth" : 23776713.731536128
+		},
+		{
+			"readBandwidth" : 107501559.09818397,
+			"requestSize" : 40448,
+			"writeBandwidth" : 21820014.795546327
+		},
+		{
+			"readBandwidth" : 115249061.93263797,
+			"requestSize" : 40960,
+			"writeBandwidth" : 56226336.551362738
+		},
+		{
+			"readBandwidth" : 115646175.57005678,
+			"requestSize" : 41472,
+			"writeBandwidth" : 22011021.890984122
+		},
+		{
+			"readBandwidth" : 108157641.21193111,
+			"requestSize" : 41984,
+			"writeBandwidth" : 24338430.497023799
+		},
+		{
+			"readBandwidth" : 114472925.11270726,
+			"requestSize" : 42496,
+			"writeBandwidth" : 22747119.711604826
+		},
+		{
+			"readBandwidth" : 119696285.37072824,
+			"requestSize" : 43008,
+			"writeBandwidth" : 27894510.58836006
+		},
+		{
+			"readBandwidth" : 113430483.76599519,
+			"requestSize" : 43520,
+			"writeBandwidth" : 23018619.785451658
+		},
+		{
+			"readBandwidth" : 117698550.55571502,
+			"requestSize" : 44032,
+			"writeBandwidth" : 24207747.141774647
+		},
+		{
+			"readBandwidth" : 113469418.27180108,
+			"requestSize" : 44544,
+			"writeBandwidth" : 23438243.678686067
+		},
+		{
+			"readBandwidth" : 122623523.23618835,
+			"requestSize" : 45056,
+			"writeBandwidth" : 56093707.333822675
+		},
+		{
+			"readBandwidth" : 112063120.83949263,
+			"requestSize" : 45568,
+			"writeBandwidth" : 24215499.232272703
+		},
+		{
+			"readBandwidth" : 112796478.63199531,
+			"requestSize" : 46080,
+			"writeBandwidth" : 25366662.292111985
+		},
+		{
+			"readBandwidth" : 116327551.40611544,
+			"requestSize" : 46592,
+			"writeBandwidth" : 23920307.816719152
+		},
+		{
+			"readBandwidth" : 121498993.37681603,
+			"requestSize" : 47104,
+			"writeBandwidth" : 30366770.80415548
+		},
+		{
+			"readBandwidth" : 118833120.80566077,
+			"requestSize" : 47616,
+			"writeBandwidth" : 24350850.95871307
+		},
+		{
+			"readBandwidth" : 117023269.684003,
+			"requestSize" : 48128,
+			"writeBandwidth" : 26072624.261140592
+		},
+		{
+			"readBandwidth" : 117492443.21287672,
+			"requestSize" : 48640,
+			"writeBandwidth" : 24495520.992425349
+		},
+		{
+			"readBandwidth" : 127127502.62911481,
+			"requestSize" : 49152,
+			"writeBandwidth" : 56832007.653140232
+		},
+		{
+			"readBandwidth" : 117307316.25108668,
+			"requestSize" : 49664,
+			"writeBandwidth" : 25108046.997981701
+		},
+		{
+			"readBandwidth" : 115760232.50066182,
+			"requestSize" : 50176,
+			"writeBandwidth" : 27628867.578187618
+		},
+		{
+			"readBandwidth" : 120061732.56511471,
+			"requestSize" : 50688,
+			"writeBandwidth" : 24932302.059951644
+		},
+		{
+			"readBandwidth" : 122822217.31511214,
+			"requestSize" : 51200,
+			"writeBandwidth" : 31056086.63099733
+		},
+		{
+			"readBandwidth" : 119681558.32128428,
+			"requestSize" : 51712,
+			"writeBandwidth" : 25461280.204508878
+		},
+		{
+			"readBandwidth" : 120646027.95984125,
+			"requestSize" : 52224,
+			"writeBandwidth" : 27659582.767555598
+		},
+		{
+			"readBandwidth" : 120565052.46182179,
+			"requestSize" : 52736,
+			"writeBandwidth" : 26435618.076052528
+		},
+		{
+			"readBandwidth" : 124931158.5864321,
+			"requestSize" : 53248,
+			"writeBandwidth" : 56839429.949611634
+		},
+		{
+			"readBandwidth" : 117625120.46182004,
+			"requestSize" : 53760,
+			"writeBandwidth" : 26485825.12603778
+		},
+		{
+			"readBandwidth" : 117856246.48203138,
+			"requestSize" : 54272,
+			"writeBandwidth" : 28016801.688155401
+		},
+		{
+			"readBandwidth" : 115189888.63695815,
+			"requestSize" : 54784,
+			"writeBandwidth" : 27145599.114523239
+		},
+		{
+			"readBandwidth" : 120900192.63555318,
+			"requestSize" : 55296,
+			"writeBandwidth" : 32919051.183905799
+		},
+		{
+			"readBandwidth" : 118113211.03319436,
+			"requestSize" : 55808,
+			"writeBandwidth" : 26528975.362166379
+		},
+		{
+			"readBandwidth" : 121838593.71162423,
+			"requestSize" : 56320,
+			"writeBandwidth" : 28503956.526531141
+		},
+		{
+			"readBandwidth" : 121334163.19934455,
+			"requestSize" : 56832,
+			"writeBandwidth" : 27127054.579573624
+		},
+		{
+			"readBandwidth" : 127859680.76436655,
+			"requestSize" : 57344,
+			"writeBandwidth" : 57620013.474389508
+		},
+		{
+			"readBandwidth" : 123144073.7698303,
+			"requestSize" : 57856,
+			"writeBandwidth" : 27615329.108983591
+		},
+		{
+			"readBandwidth" : 124284342.00012289,
+			"requestSize" : 58368,
+			"writeBandwidth" : 29347086.893203676
+		},
+		{
+			"readBandwidth" : 119242425.07188767,
+			"requestSize" : 58880,
+			"writeBandwidth" : 26990762.214335542
+		},
+		{
+			"readBandwidth" : 125405371.24727008,
+			"requestSize" : 59392,
+			"writeBandwidth" : 33244037.132248342
+		},
+		{
+			"readBandwidth" : 122512637.02440704,
+			"requestSize" : 59904,
+			"writeBandwidth" : 28181019.729086783
+		},
+		{
+			"readBandwidth" : 120685313.37377872,
+			"requestSize" : 60416,
+			"writeBandwidth" : 29712376.197372485
+		},
+		{
+			"readBandwidth" : 121936505.89541431,
+			"requestSize" : 60928,
+			"writeBandwidth" : 28253899.341351148
+		},
+		{
+			"readBandwidth" : 130542819.73434426,
+			"requestSize" : 61440,
+			"writeBandwidth" : 58421855.095215052
+		},
+		{
+			"readBandwidth" : 123553184.20075902,
+			"requestSize" : 61952,
+			"writeBandwidth" : 28605891.637849286
+		},
+		{
+			"readBandwidth" : 123499689.87646957,
+			"requestSize" : 62464,
+			"writeBandwidth" : 29728349.834125675
+		},
+		{
+			"readBandwidth" : 123116592.08599931,
+			"requestSize" : 62976,
+			"writeBandwidth" : 28653403.304264754
+		},
+		{
+			"readBandwidth" : 122924667.54090615,
+			"requestSize" : 63488,
+			"writeBandwidth" : 34632026.501173779
+		},
+		{
+			"readBandwidth" : 122926746.35495183,
+			"requestSize" : 64000,
+			"writeBandwidth" : 29312220.551719233
+		},
+		{
+			"readBandwidth" : 123941792.64677687,
+			"requestSize" : 64512,
+			"writeBandwidth" : 31073721.062820513
+		},
+		{
+			"readBandwidth" : 126105016.88279592,
+			"requestSize" : 65024,
+			"writeBandwidth" : 30092047.489203297
+		},
+		{
+			"readBandwidth" : 131079764.37876323,
+			"requestSize" : 65536,
+			"writeBandwidth" : 60031074.719061315
+		},
+		{
+			"readBandwidth" : 134034668.39039454,
+			"requestSize" : 98304,
+			"writeBandwidth" : 67320085.581809282
+		},
+		{
+			"readBandwidth" : 137610326.91054127,
+			"requestSize" : 131072,
+			"writeBandwidth" : 74033215.90773727
+		},
+		{
+			"readBandwidth" : 71281275.774331674,
+			"requestSize" : 196608,
+			"writeBandwidth" : 59786535.510220371
+		},
+		{
+			"readBandwidth" : 94113349.092662409,
+			"requestSize" : 262144,
+			"writeBandwidth" : 59036988.778671429
+		}
+	],
+        "maxOutstandingReadBytes" : 1572864,
+        "maxOutstandingWriteBytes" : 3145728,
+        "readMPL" : 48,
+        "type" : "storageSSD",
+        "writeMPL" : 96
+}

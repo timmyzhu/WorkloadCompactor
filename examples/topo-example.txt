@@ -1,0 +1,1091 @@
+{
+	"addrPrefix" : "tzhu",
+	"enforce" : false,
+	"clients" :
+	[
+		{
+			"SLO" : 0.2,
+			"name" : "C0",
+			"trace" : "traces/trace0000.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C1",
+			"trace" : "traces/trace0001.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C2",
+			"trace" : "traces/trace0002.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C3",
+			"trace" : "traces/trace0003.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C4",
+			"trace" : "traces/trace0004.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C5",
+			"trace" : "traces/trace0005.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C6",
+			"trace" : "traces/trace0006.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C7",
+			"trace" : "traces/trace0007.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C8",
+			"trace" : "traces/trace0008.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C9",
+			"trace" : "traces/trace0009.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C10",
+			"trace" : "traces/trace0010.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C11",
+			"trace" : "traces/trace0011.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C12",
+			"trace" : "traces/trace0012.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C13",
+			"trace" : "traces/trace0013.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C14",
+			"trace" : "traces/trace0014.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C15",
+			"trace" : "traces/trace0015.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C16",
+			"trace" : "traces/trace0016.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C17",
+			"trace" : "traces/trace0017.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C18",
+			"trace" : "traces/trace0018.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C19",
+			"trace" : "traces/trace0019.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C20",
+			"trace" : "traces/trace0020.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C21",
+			"trace" : "traces/trace0021.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C22",
+			"trace" : "traces/trace0022.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C23",
+			"trace" : "traces/trace0023.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C24",
+			"trace" : "traces/trace0024.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C25",
+			"trace" : "traces/trace0025.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C26",
+			"trace" : "traces/trace0026.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C27",
+			"trace" : "traces/trace0027.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C28",
+			"trace" : "traces/trace0028.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C29",
+			"trace" : "traces/trace0029.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C30",
+			"trace" : "traces/trace0030.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C31",
+			"trace" : "traces/trace0031.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C32",
+			"trace" : "traces/trace0032.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C33",
+			"trace" : "traces/trace0033.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C34",
+			"trace" : "traces/trace0034.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C35",
+			"trace" : "traces/trace0035.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C36",
+			"trace" : "traces/trace0036.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C37",
+			"trace" : "traces/trace0037.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C38",
+			"trace" : "traces/trace0038.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C39",
+			"trace" : "traces/trace0039.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C40",
+			"trace" : "traces/trace0040.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C41",
+			"trace" : "traces/trace0041.txt"
+		},
+		{
+			"SLO" : 0.1,
+			"name" : "C42",
+			"trace" : "traces/trace0042.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C43",
+			"trace" : "traces/trace0043.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C44",
+			"trace" : "traces/trace0044.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C45",
+			"trace" : "traces/trace0045.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C46",
+			"trace" : "traces/trace0046.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C47",
+			"trace" : "traces/trace0047.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C48",
+			"trace" : "traces/trace0048.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C49",
+			"trace" : "traces/trace0049.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C50",
+			"trace" : "traces/trace0050.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C51",
+			"trace" : "traces/trace0051.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C52",
+			"trace" : "traces/trace0052.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C53",
+			"trace" : "traces/trace0053.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C54",
+			"trace" : "traces/trace0054.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C55",
+			"trace" : "traces/trace0055.txt"
+		},
+		{
+			"SLO" : 0.2,
+			"name" : "C56",
+			"trace" : "traces/trace0056.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C57",
+			"trace" : "traces/trace0057.txt"
+		},
+		{
+			"SLO" : 0.45,
+			"name" : "C58",
+			"trace" : "traces/trace0058.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C59",
+			"trace" : "traces/trace0059.txt"
+		},
+		{
+			"SLO" : 0.05,
+			"name" : "C60",
+			"trace" : "traces/trace0060.txt"
+		},
+		{
+			"SLO" : 0.95,
+			"name" : "C61",
+			"trace" : "traces/trace0061.txt"
+		}
+	],
+	"clientVMs" :
+	[
+		{
+			"clientHost" : "client000",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "14"
+		}
+	],
+	"serverVMs" :
+	[
+		{
+			"serverHost" : "server000",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server001",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server002",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server003",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server004",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server005",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server006",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server007",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server008",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server009",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server010",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server011",
+			"serverVM" : "1"
+		}
+	]
+}

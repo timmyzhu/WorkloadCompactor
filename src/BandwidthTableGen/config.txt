@@ -1,0 +1,15 @@
+{
+        "maxOutstandingReadBytes" : 1572864,
+        "maxOutstandingWriteBytes" : 3145728,
+        "readMPL" : 48,
+        "type" : "storageSSD",
+        "writeMPL" : 96,
+        "bandwidthTable" : 
+        [
+                {
+                        "readBandwidth" : 1000000000,
+                        "requestSize" : 512,
+                        "writeBandwidth" : 1000000000
+                }
+        ]
+}

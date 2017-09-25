@@ -1,0 +1,1339 @@
+{
+	"addrPrefix" : "tzhu",
+	"clientVMs" : 
+	[
+		{
+			"clientHost" : "client000",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client000",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client001",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client002",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client003",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client004",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client005",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client006",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client007",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client008",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client009",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client010",
+			"clientVM" : "14"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "0"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "1"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "2"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "3"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "4"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "5"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "6"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "7"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "8"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "9"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "10"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "11"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "12"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "13"
+		},
+		{
+			"clientHost" : "client011",
+			"clientVM" : "14"
+		}
+	],
+	"clients" : 
+	[
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client007",
+			"clientVM" : "11",
+			"name" : "C0",
+			"serverHost" : "server007",
+			"serverVM" : "1",
+			"trace" : "traces/trace0000.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client000",
+			"clientVM" : "11",
+			"name" : "C1",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0001.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client001",
+			"clientVM" : "13",
+			"name" : "C2",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0002.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client002",
+			"clientVM" : "12",
+			"name" : "C3",
+			"serverHost" : "server002",
+			"serverVM" : "1",
+			"trace" : "traces/trace0003.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client001",
+			"clientVM" : "2",
+			"name" : "C4",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0004.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client000",
+			"clientVM" : "13",
+			"name" : "C5",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0005.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client006",
+			"clientVM" : "12",
+			"name" : "C6",
+			"serverHost" : "server006",
+			"serverVM" : "1",
+			"trace" : "traces/trace0006.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client008",
+			"clientVM" : "10",
+			"name" : "C7",
+			"serverHost" : "server008",
+			"serverVM" : "1",
+			"trace" : "traces/trace0007.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client004",
+			"clientVM" : "0",
+			"name" : "C8",
+			"serverHost" : "server004",
+			"serverVM" : "1",
+			"trace" : "traces/trace0008.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client003",
+			"clientVM" : "10",
+			"name" : "C9",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0009.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client009",
+			"clientVM" : "11",
+			"name" : "C10",
+			"serverHost" : "server009",
+			"serverVM" : "1",
+			"trace" : "traces/trace0010.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client003",
+			"clientVM" : "0",
+			"name" : "C11",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0011.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client002",
+			"clientVM" : "1",
+			"name" : "C12",
+			"serverHost" : "server002",
+			"serverVM" : "1",
+			"trace" : "traces/trace0012.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client001",
+			"clientVM" : "4",
+			"name" : "C13",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0013.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client010",
+			"clientVM" : "0",
+			"name" : "C14",
+			"serverHost" : "server010",
+			"serverVM" : "1",
+			"trace" : "traces/trace0014.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client002",
+			"clientVM" : "0",
+			"name" : "C15",
+			"serverHost" : "server002",
+			"serverVM" : "1",
+			"trace" : "traces/trace0015.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client001",
+			"clientVM" : "3",
+			"name" : "C16",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0016.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client001",
+			"clientVM" : "14",
+			"name" : "C17",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0017.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client000",
+			"clientVM" : "12",
+			"name" : "C18",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0018.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client006",
+			"clientVM" : "10",
+			"name" : "C19",
+			"serverHost" : "server006",
+			"serverVM" : "1",
+			"trace" : "traces/trace0019.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client003",
+			"clientVM" : "12",
+			"name" : "C20",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0020.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client000",
+			"clientVM" : "0",
+			"name" : "C21",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0021.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client003",
+			"clientVM" : "14",
+			"name" : "C22",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0022.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client000",
+			"clientVM" : "2",
+			"name" : "C23",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0023.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client000",
+			"clientVM" : "3",
+			"name" : "C24",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0024.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client007",
+			"clientVM" : "1",
+			"name" : "C25",
+			"serverHost" : "server007",
+			"serverVM" : "1",
+			"trace" : "traces/trace0025.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client003",
+			"clientVM" : "11",
+			"name" : "C26",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0026.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client000",
+			"clientVM" : "1",
+			"name" : "C27",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0027.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client005",
+			"clientVM" : "1",
+			"name" : "C28",
+			"serverHost" : "server005",
+			"serverVM" : "1",
+			"trace" : "traces/trace0028.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client002",
+			"clientVM" : "10",
+			"name" : "C29",
+			"serverHost" : "server002",
+			"serverVM" : "1",
+			"trace" : "traces/trace0029.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client008",
+			"clientVM" : "1",
+			"name" : "C30",
+			"serverHost" : "server008",
+			"serverVM" : "1",
+			"trace" : "traces/trace0030.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client001",
+			"clientVM" : "10",
+			"name" : "C31",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0031.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client000",
+			"clientVM" : "14",
+			"name" : "C32",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0032.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client006",
+			"clientVM" : "0",
+			"name" : "C33",
+			"serverHost" : "server006",
+			"serverVM" : "1",
+			"trace" : "traces/trace0033.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client000",
+			"clientVM" : "10",
+			"name" : "C34",
+			"serverHost" : "server000",
+			"serverVM" : "1",
+			"trace" : "traces/trace0034.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client003",
+			"clientVM" : "1",
+			"name" : "C35",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0035.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client001",
+			"clientVM" : "12",
+			"name" : "C36",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0036.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client002",
+			"clientVM" : "14",
+			"name" : "C37",
+			"serverHost" : "server002",
+			"serverVM" : "1",
+			"trace" : "traces/trace0037.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client002",
+			"clientVM" : "11",
+			"name" : "C38",
+			"serverHost" : "server002",
+			"serverVM" : "1",
+			"trace" : "traces/trace0038.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client004",
+			"clientVM" : "12",
+			"name" : "C39",
+			"serverHost" : "server004",
+			"serverVM" : "1",
+			"trace" : "traces/trace0039.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client005",
+			"clientVM" : "10",
+			"name" : "C40",
+			"serverHost" : "server005",
+			"serverVM" : "1",
+			"trace" : "traces/trace0040.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client009",
+			"clientVM" : "1",
+			"name" : "C41",
+			"serverHost" : "server009",
+			"serverVM" : "1",
+			"trace" : "traces/trace0041.txt"
+		},
+		{
+			"SLO" : 0.10000000000000001,
+			"clientHost" : "client003",
+			"clientVM" : "13",
+			"name" : "C42",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0042.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client009",
+			"clientVM" : "0",
+			"name" : "C43",
+			"serverHost" : "server009",
+			"serverVM" : "1",
+			"trace" : "traces/trace0043.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client001",
+			"clientVM" : "1",
+			"name" : "C44",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0044.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client002",
+			"clientVM" : "13",
+			"name" : "C45",
+			"serverHost" : "server002",
+			"serverVM" : "1",
+			"trace" : "traces/trace0045.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client004",
+			"clientVM" : "10",
+			"name" : "C46",
+			"serverHost" : "server004",
+			"serverVM" : "1",
+			"trace" : "traces/trace0046.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client007",
+			"clientVM" : "12",
+			"name" : "C47",
+			"serverHost" : "server007",
+			"serverVM" : "1",
+			"trace" : "traces/trace0047.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client007",
+			"clientVM" : "0",
+			"name" : "C48",
+			"serverHost" : "server007",
+			"serverVM" : "1",
+			"trace" : "traces/trace0048.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client006",
+			"clientVM" : "11",
+			"name" : "C49",
+			"serverHost" : "server006",
+			"serverVM" : "1",
+			"trace" : "traces/trace0049.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client009",
+			"clientVM" : "10",
+			"name" : "C50",
+			"serverHost" : "server009",
+			"serverVM" : "1",
+			"trace" : "traces/trace0050.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client001",
+			"clientVM" : "0",
+			"name" : "C51",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0051.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client010",
+			"clientVM" : "1",
+			"name" : "C52",
+			"serverHost" : "server010",
+			"serverVM" : "1",
+			"trace" : "traces/trace0052.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client003",
+			"clientVM" : "2",
+			"name" : "C53",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0053.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client008",
+			"clientVM" : "0",
+			"name" : "C54",
+			"serverHost" : "server008",
+			"serverVM" : "1",
+			"trace" : "traces/trace0054.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client001",
+			"clientVM" : "11",
+			"name" : "C55",
+			"serverHost" : "server001",
+			"serverVM" : "1",
+			"trace" : "traces/trace0055.txt"
+		},
+		{
+			"SLO" : 0.20000000000000001,
+			"clientHost" : "client004",
+			"clientVM" : "11",
+			"name" : "C56",
+			"serverHost" : "server004",
+			"serverVM" : "1",
+			"trace" : "traces/trace0056.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client004",
+			"clientVM" : "1",
+			"name" : "C57",
+			"serverHost" : "server004",
+			"serverVM" : "1",
+			"trace" : "traces/trace0057.txt"
+		},
+		{
+			"SLO" : 0.45000000000000001,
+			"clientHost" : "client006",
+			"clientVM" : "1",
+			"name" : "C58",
+			"serverHost" : "server006",
+			"serverVM" : "1",
+			"trace" : "traces/trace0058.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client005",
+			"clientVM" : "0",
+			"name" : "C59",
+			"serverHost" : "server005",
+			"serverVM" : "1",
+			"trace" : "traces/trace0059.txt"
+		},
+		{
+			"SLO" : 0.050000000000000003,
+			"clientHost" : "client003",
+			"clientVM" : "3",
+			"name" : "C60",
+			"serverHost" : "server003",
+			"serverVM" : "1",
+			"trace" : "traces/trace0060.txt"
+		},
+		{
+			"SLO" : 0.94999999999999996,
+			"clientHost" : "client007",
+			"clientVM" : "10",
+			"name" : "C61",
+			"serverHost" : "server007",
+			"serverVM" : "1",
+			"trace" : "traces/trace0061.txt"
+		}
+	],
+	"enforce" : false,
+	"serverVMs" : 
+	[
+		{
+			"serverHost" : "server000",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server001",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server002",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server003",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server004",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server005",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server006",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server007",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server008",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server009",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server010",
+			"serverVM" : "1"
+		},
+		{
+			"serverHost" : "server011",
+			"serverVM" : "1"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+../prot/%.h: ../prot/%.x
+	-rm $@
+	rpcgen -h -N -M -o $@ $<
+
+../prot/%_xdr.c: ../prot/%.x ../prot/%.h
+	-rm $@
+	rpcgen -c -N -M -DIGNORE_WARNINGS -o $@ $<
+
+../prot/%_clnt.c: ../prot/%.x ../prot/%.h
+	-rm $@
+	rpcgen -l -N -M -o $@ $<
